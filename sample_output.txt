@@ -1,0 +1,94 @@
+How many elevators does this system have? 4
+Elevator 0: Starting.
+Elevator 1: Starting.
+Elevator 2: Starting.
+Elevator 3: Starting.
+
+***** MAIN MENU *****
+Chose an option: 
+1) Call any elevator to a specified floor.
+2) Go to a floor from a specific elevator
+3) Put an elevator in maintenance mode
+4) Put an elevator in broken mode
+5) Reset an elevator's state
+6) Quit
+Enter Your Choice: 1
+	Enter desired floor: 1
+Elevator 3: Adding Floor: 1
+
+***** MAIN MENU *****
+Chose an option: 
+1) Call any elevator to a specified floor.
+2) Go to a floor from a specific elevator
+3) Put an elevator in maintenance mode
+4) Put an elevator in broken mode
+5) Reset an elevator's state
+6) Quit
+Enter Your Choice: Elevator 3: Moved to floor: 1, State = GOING_UP
+1
+	Enter desired floor: 2
+Elevator 3: Adding Floor: 2
+
+***** MAIN MENU *****
+Chose an option: 
+1) Call any elevator to a specified floor.
+2) Go to a floor from a specific elevator
+3) Put an elevator in maintenance mode
+4) Put an elevator in broken mode
+5) Reset an elevator's state
+6) Quit
+Enter Your Choice: Elevator 3: Moved to floor: 2, State = GOING_UP
+1
+	Enter desired floor: 3
+Elevator 3: Adding Floor: 3
+
+***** MAIN MENU *****
+Chose an option: 
+1) Call any elevator to a specified floor.
+2) Go to a floor from a specific elevator
+3) Put an elevator in maintenance mode
+4) Put an elevator in broken mode
+5) Reset an elevator's state
+6) Quit
+Enter Your Choice: Elevator 3: Moved to floor: 3, State = GOING_UP
+1
+	Enter desired floor: 2
+Elevator 3: Adding Floor: 2
+
+***** MAIN MENU *****
+Chose an option: 
+1) Call any elevator to a specified floor.
+2) Go to a floor from a specific elevator
+3) Put an elevator in maintenance mode
+4) Put an elevator in broken mode
+5) Reset an elevator's state
+6) Quit
+Enter Your Choice: Elevator 3: Moved to floor: 2, State = GOING_DOWN
+2
+	Enter desired floor: 99
+	Enter desired elevator: 2
+Elevator 2: Adding Floor: 99
+
+***** MAIN MENU *****
+Chose an option: 
+1) Call any elevator to a specified floor.
+2) Go to a floor from a specific elevator
+3) Put an elevator in maintenance mode
+4) Put an elevator in broken mode
+5) Reset an elevator's state
+6) Quit
+Enter Your Choice: Elevator 2: Moved to floor: 99, State = GOING_UP
+1
+	Enter desired floor: 95
+Elevator 2: Adding Floor: 95
+
+***** MAIN MENU *****
+Chose an option: 
+1) Call any elevator to a specified floor.
+2) Go to a floor from a specific elevator
+3) Put an elevator in maintenance mode
+4) Put an elevator in broken mode
+5) Reset an elevator's state
+6) Quit
+Enter Your Choice: Elevator 2: Moved to floor: 95, State = GOING_DOWN
+
